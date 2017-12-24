@@ -17,7 +17,7 @@ About version
 - Create React App
 - ReactJS
  - Libs
-  - React Routes 4 (React-Router-dom[https://medium.com/@ivanmontiel/changing-old-habits-in-react-router-4-8483ee5e087c]
+  - React Routes 4 (React-Router-dom[https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a]
 
 
 Set up
