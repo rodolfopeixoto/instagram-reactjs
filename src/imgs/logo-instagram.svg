@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1"
+   viewBox="0 0 50 50"
+   id="svg8"
+   sodipodi:docname="logo-instagram.svg"
+   inkscape:version="0.92.2 (unknown)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="4.72"
+     inkscape:cx="25.423729"
+     inkscape:cy="0.11087393"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <circle
+     style="opacity:1;fill:#999999;fill-opacity:1"
+     id="path823"
+     cx="24.788136"
+     cy="24.15254"
+     r="22.245762" />
+  <circle
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke-width:0.8142857"
+     id="path823-3"
+     cx="25.105932"
+     cy="24.258476"
+     r="18.114407" />
+  <circle
+     style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0.53809524"
+     id="path823-3-6"
+     cx="25.211864"
+     cy="24.15254"
+     r="11.970339" />
+  <circle
+     style="opacity:1;fill:#999999;fill-opacity:1;stroke-width:0.32380953"
+     id="path823-3-6-7"
+     cx="25.529663"
+     cy="24.04661"
+     r="7.2033896" />
+</svg>
